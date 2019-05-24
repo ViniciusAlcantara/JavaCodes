@@ -1,0 +1,4 @@
+Exercicio:
+
+Acrescente um botao que permita reiniciar o jogo. Quando o jogo
+for reiniciado, o texto na caixa de mensagens deve ser apagado.
